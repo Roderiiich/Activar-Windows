@@ -18,4 +18,9 @@ Los scripts incluidos en este repositorio están adaptados para las siguientes e
 - 🔹 Windows Pro for Workstations
 
 ---
+## 📋 Modo de Uso
 
+- 🔹Descarga el archivo que sea compatible con tu version de Windows.
+- 🔹Luego haz click derecho y Ejecuta como Administrador y listo.
+
+---
