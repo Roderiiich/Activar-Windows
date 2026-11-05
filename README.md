@@ -19,8 +19,3 @@ Los scripts incluidos en este repositorio están adaptados para las siguientes e
 
 ---
 
-## 🚀 Instrucciones de Uso
-
-1. **Clona el repositorio:**
-   ```bash
-   git clone [https://github.com/Roderiiich/Activar-Windows.git](https://github.com/Roderiiich/Activar-Windows.git)
